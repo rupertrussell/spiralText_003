@@ -9,5 +9,6 @@ Pi to 100,000 digits
  Adaped for Redbubble by Rupert Russell
  2 July 2018
  Code avaiable on Github at https://github.com/rupertrussell/spiralText_003
- Artwork available on Redbubble at: https://github.com/rupertrussell/spiralText_003
+ Artwork available on Redbubble at: https://www.redbubble.com/people/rupertrussell/works/32495506-pi-spiral-003
  */
+
